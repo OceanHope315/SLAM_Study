@@ -1,8 +1,8 @@
 import cv2
 
 # 1. 读取图像（灰度图）
-# img = cv2.imread('./test_image/object.jpg', 0)
-img = cv2.imread('./test_image/left.jpg', 0)
+# img = cv2.imread('./test_image/t1.jpg', 0)
+img = cv2.imread('./test_image/t2.jpg', 0)
 
 # 2. 初始化 ORB 检测器
 # nfeatures 是你想找多少个特征点
